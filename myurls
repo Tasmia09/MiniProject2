@@ -25,7 +25,7 @@ git://github.com/hybridgroup/keypress.git
 git+https://github.com/accordionpeas/gulp-css-selector-limit.git
 git+https://github.com/nickjj/manifest-revision-webpack-plugin.git
 git://github.com/pansafe/express-sexy-static.git
-https://www.github.com/tomgp/d3-iconarray.git
+git+https://github.com/tomgp/d3-iconarray.git
 git+https://github.com/AlvaradoAdam15/NodeJs.git
 git+https://github.com/indexiatech/ember-idx-button.git
 git+https://github.com/ktsn/vue-custom-properties.git
@@ -47,7 +47,7 @@ git+https://github.com/alzubaidi/nodetools.git
 git+https://github.com/ChrisTheBaron/cylon-rolling-spider.git
 github.com/flosse/react-vm-flower
 git+https://github.com/TwoStoryRobot/storybook-addon-docgen.git
-https://www.github.com/tumblr/laphs
+git+https://github.com/tumblr/laphs.git
 git+https://github.com/shudima/dimas-kmeans.git
 git+https://github.com/dimerapp/dfile.git
 git+https://github.com/dzek69/brotli-cli.git
@@ -315,7 +315,7 @@ git+https://github.com/cesarferreira/vrt-cli.git
 git+https://github.com/felipethome/react-outside-click.git
 git+https://github.com/pierrecabriere/next-apollo-hoc.git
 git+https://github.com/dangvanthanh/create-web-app.git
-git+https://github.com/bigstickcarpet/omnipath.git
+git+https://github.com/JS-DevTools/omnipath.git
 git+ssh://git@github.com/mateusmaso/jquery.html.git
 git+https://github.com/bdadam/video-url-inspector.git
 git+https://github.com/arfost/arfost-ntools.git
@@ -340,7 +340,7 @@ git+https://github.com/akameco/adventar.git
 git+https://github.com/koajs/compress.git
 git+https://github.com/universome/digest-client.git
 git+https://github.com/aapzu/unicafe-cli.git
-git+https://github.com/dfcreative/string-to-arraybuffer.git
+git+https://github.com/dy/string-to-arraybuffer.git
 git+https://github.com/tableflip/json2po-stream.git
 git+https://github.com/xissy/node-amazon-products.git
 git+https://github.com/itajaja/tslib-webpack-starter.git
@@ -392,7 +392,6 @@ git+https://github.com/christophercliff/zombie-passport-twitter.git
 git+https://github.com/tjoskar/autoinject.git
 git+https://github.com/salomonelli/google-news-feed.git
 git+https://github.com/tarol/generator-tarol.git
-git+https://github.com/marcelthomas5/and-ui-angular.git
 git+https://github.com/brettneese/isLambdaWarm.git
 git://github.com/vison123/Mock.git
 git+https://github.com/noeldelgado/react-gemini-scrollbar.git
@@ -414,7 +413,7 @@ git+https://github.com/hemanth/canvas-gradient.git
 git://github.com/dolymood/mobile-router.js-docs.git
 git+https://github.com/rkoeze/react-mock-router.git
 git+https://github.com/GTDev87/flatree.git
-https://www.github.com/gdpelican/angular-material-icons
+git+https://github.com/gdpelican/angular-material-icons.git
 git+https://github.com/mperdeck/jsnlog.js.git
 git+https://github.com/project-bitmark/templates.git
 git+https://github.com/benjick/fauxet.git
@@ -586,7 +585,7 @@ git+https://github.com/danielsogl/cordova-plugin-clipboard.git
 git+https://github.com/Srinjita/craft-gear.git
 git+https://github.com/watson/mongoify.git
 git+https://github.com/snowplow/snowplow-javascript-tracker.git
-git+ssh://git@github.com/pederjohnsen/emoji-mart-native.git
+git+ssh://git@github.com/thinkproductivity/emoji-mart-native.git
 git+https://github.com/npm/deprecate-holder.git
 git+https://github.com/olstenlarck/collect-mentions.git
 git+https://github.com/steelbrain/bibi.git
@@ -840,6 +839,7 @@ git+https://github.com/Steeljuice/crypto-password-helper.git
 git+https://github.com/gitnooji/noojiapi.git
 git+https://github.com/npm/deprecate-holder.git
 git+https://github.com/akkonrad/loopback-author-mixin.git
+git+https://github.com/agemor/textshield.git
 git+https://github.com/tapjs/clean-yaml-object.git
 git+https://github.com/Growmies/object-interpolator.git
 git+https://github.com/legomushroom/mojs.git
@@ -974,7 +974,7 @@ git+https://github.com/happylynx/flow-webpack-plugin.git
 git://github.com/SpringRole/passport-yoti.git
 git+https://github.com/formidablelabs/victory.git
 git+https://github.com/launchbadge/node-short-stack.git
-git+https://github.com/landn172/jingubang.git
+git+https://github.com/jgbjs/jgb.git
 git+ssh://git@github.com/JesonRondo/neo-zepto.git
 git+https://github.com/shinnn/package-author-names.git
 git+https://github.com/oleics/node-filewalker.git
@@ -1497,7 +1497,7 @@ git+https://github.com/sbarski/run-local-lambda.git
 git+https://github.com/joshfinnie/pushfile.git
 git+https://github.com/andrewdacenko/format-matcher.git
 git+https://github.com/xgbuils/parser.status.git
-git+https://github.com/mysugr/spring-module-build.git
+git+https://github.com/mysugr/spring.git
 git+https://github.com/gcoombe/intercom-aircall-push.git
 git+https://github.com/OnlineBuddies/add-define-names.git
 git+https://github.com/codemix/flow-runtime.git
@@ -1514,7 +1514,7 @@ git+https://github.com/schlaus/jquery-enable-disable.git
 git://github.com/lessthan3/dobi-mongofb.git
 github.com/kizdolf/babel-plugin-root-import
 git+https://github.com/graysonhicks/generator-flyweight.git
-git+https://github.com/agorischek/louk-loader.git
+git+https://github.com/louk-lang/louk-loader.git
 git+https://github.com/Naeemo/koa-1.x-webpack-middleware.git
 git+https://github.com/sethmcleod/fire-starter.git
 git+https://github.com/myTerminal/gulp-that.git
@@ -1617,12 +1617,11 @@ git+https://github.com/usful/react-native-animated-scrollview.git
 git+https://github.com/gogoair/react-slide-out.git
 git+https://github.com/wangzuo/at-least.git
 git+https://github.com/jchristman/babel-plugin-transform-import-extension-jsx-to-js.git
-git+https://github.com/peterpeterparker/web-photo-filter.git
+git+https://github.com/fluster/web-photo-filter.git
 git+https://github.com/derhuerst/vbb-parse-line.git
 git+https://github.com/defmethod/version-compatibility.git
 git+https://github.com/jamiees2/node-ballmer.git
 git+https://github.com/immidi/react-native-navbar-wrapper.git
-git+https://github.com/vcl/logo.git
 git+https://github.com/BuckleTypes/bs-promise.git
 git+https://github.com/jmversteeg/defa.git
 git+https://github.com/diversen/get-json-promise.git
@@ -1675,7 +1674,6 @@ git+https://github.com/bryanph/full-auth-middleware.git
 git+https://github.com/triniwiz/nativescript-ddp-login.git
 git+ssh://git@github.com/screenrev/node-local-config.git
 git+https://github.com/nnexai/cordova-plugin-android-support-v13.git
-git://github.com/teptek/dirq.git
 git+https://github.com/Kenny806/grunt-todofinder.git
 git://github.com/ipeychev/yui-modules-explorer.git
 git+https://github.com/jaz303/logatron.git
@@ -1692,7 +1690,6 @@ git+https://github.com/sujith3g/epo-ops.git
 git+https://github.com/kenchris/jakecache.git
 git+https://github.com/freaktechnik/eslint-configs.git
 git+https://github.com/laomu1988/fis3-deploy-yzip.git
-git+https://github.com/netlify/netlify-cli.git
 git+https://github.com/npm/deprecate-holder.git
 git+https://github.com/kaizhu256/utility2-external.git
 git+https://github.com/helion3/inspire-tree-dom.git
@@ -1899,7 +1896,7 @@ git+https://github.com/rxaviers/decamelize-keys-deep.git
 git+https://github.com/animajs/events.git
 git+https://github.com/martinrue/npmhome.git
 git+ssh://git@github.com/bootjs/utilskit.git
-git+https://github.com/Burritosss/glibr-project.git
+git+https://github.com/burritosss/glibr-project.git
 git+https://github.com/fibo/i-am-not-a-robot.git
 https://www.github.com/DefinitelyTyped/DefinitelyTyped.git
 module_git_repo
@@ -2211,7 +2208,6 @@ git+https://github.com/karimsa/pennyworth.git
 git://github.com/eivindfjeldstad/imagemagick-stream.git
 git+https://github.com/sbardian/npmDemo.git
 git+https://github.com/JohnnyTheTank/apiNG.git
-git://github.com/openhoat/benchitjs.git
 git+https://github.com/LodoSoftware/javascript-style-guide.git
 git+https://github.com/Doist/webpage-info.git
 git+ssh://git@github.com/qingying/htmlonline.git
@@ -2311,7 +2307,6 @@ git+https://github.com/dhendo/mongo-queryfilter.git
 git+ssh://git@github.com/yhhcg/react-echarts-binding.git
 git+https://github.com/bfred-it/element-ready-es5.git
 git+https://github.com/JamesMGreene/passport-json-custom.git
-git+https://github.com/pocka/vdriver.git
 git://github.com/stevenvachon/grunt-log-headers.git
 git+https://github.com/elishacook/feelings.git
 git+https://github.com/Seolhun/localize-react-components.git
@@ -2715,7 +2710,6 @@ git+https://github.com/Tberdy/hubot-faq.git
 git+https://github.com/thyquorthon/nativescript-slides.git
 git://github.com/monoproject/mono-session-package.git
 git+https://github.com/bigdelivery/create-react-app.git
-git+https://github.com/badgeup/badgeup-node-client.git
 git+https://github.com/bem/bem-sdk.git
 git+https://github.com/LlamaSantos/Walkin.git
 git://github.com/uber/image-diff.git
@@ -3211,7 +3205,7 @@ git://github.com/nisaacson/loggly-imacros.git
 git+https://github.com/millette/npm-git-links-user.git
 git+https://github.com/codecommission/linklet-higher-handlers.git
 git+https://github.com/miladhamzelou/react-tags.git
-https://www.github.com/andrewosh/kube-stream
+git+https://github.com/andrewosh/kube-stream.git
 git+https://github.com/imarc/boilerplate.git
 git+https://github.com/Nijikokun/breeze.git
 git+https://github.com/mafintosh/pretty-stream.git
@@ -3325,7 +3319,7 @@ git+https://github.com/khaeransori/next-pino.git
 git+https://github.com/CYBAI/react-shaky.git
 git://github.com/sethmcl/generator-selenium-nightwatch.git
 git+https://github.com/rixrix/task-nibbler.git
-git://github.com/tuananh/camaro.git
+git+https://github.com/tuananh/camaro.git
 git+https://github.com/cphoover/udp-writable-stream.git
 git+https://github.com/mitchallen/react-cognito-auth-user.git
 git+ssh://git@github.com/kogai/ci-npm-update.git
@@ -3557,11 +3551,11 @@ git+https://github.com/keenwon/eazydict.git
 git+https://github.com/hyperledger/fabric-chaincode-node.git
 git+https://github.com/netyouli/react-native-whc-loading.git
 git+https://github.com/Xotic750/to-boolean-x.git
-git+ssh://git@github.com/knamp/static-styles.git
+git+https://github.com/yildizdb/bigtable.git
 git+https://github.com/manubb/template.git
 git+https://github.com/kuyoonjo/ycs-plugin-rolesmanager.git
 git+https://github.com/nandreas/html-email-to-text.git
-git+https://github.com/MisterTicot/js-cosmic-lib.git
+git+https://github.com/cosmic-plus/node-cosmic-lib.git
 git+ssh://git@github.com/BrOrlandi/react-context-connector.git
 git+https://github.com/nteract/nteract.git
 git+https://github.com/mdebbar/mobx-cache.git
@@ -3693,7 +3687,6 @@ git+https://github.com/yulanggong/lodash-template-extras.git
 git+https://github.com/astalegale/ALE-Leaflet-FreeDraw.git
 git://github.com/j-/number-formatter.git
 git+https://github.com/Sujimoshi/gulp-jarvis.git
-git+https://github.com/codepleb/inschpektor.git
 git://github.com/forter/few-mocha.git
 git+https://github.com/DataFire/integrations.git
 git://github.com/juliangruber/level-fs-browser.git
@@ -3989,7 +3982,7 @@ lfnb@msn.cn/generator-SiteDemo
 https://www.github.com/DefinitelyTyped/DefinitelyTyped.git
 git+https://github.com/mbouclas/mcms-node-postmark.git
 git+https://github.com/Covve/CordovaContactsPlugin.git
-https://www.github.com/jovidecroock/mobx-form
+git+https://github.com/jovidecroock/mobx-form.git
 git://github.com/calvinmetcalf/copyfiles.git
 git+https://github.com/kissjs/cclog.git
 git+https://github.com/gjgj821/nodebb-plugin-sso-auth-wechat.git
@@ -4318,7 +4311,7 @@ git+https://github.com/xsm-ue/xsm-load-image.git
 git+https://github.com/nolimits4web/Framework7.git
 git+https://github.com/debos/hrq2mongoq.git
 git+https://github.com/geraldoramos/ip2data.git
-http://www.github.com/fandonglai/0904node
+git+ssh://git@github.com/fandonglai/0904node.git
 git@github.com/miwoy/x-flow.git
 git+https://mavet@bitbucket.org/clcorpdevelopment/request.git
 git+https://github.com/runoob/runoob.git
@@ -4500,7 +4493,7 @@ git+https://github.com/npm/deprecate-holder.git
 git+https://github.com/Intervox/node-webp.git
 git+https://github.com/saveryanov/avatars.git
 git+https://github.com/bluelovers/node-str-util.git
-git+https://github.com/dushao103500/static-server.git
+git+https://github.com/WisestCoder/static-server.git
 git+https://github.com/boljen/node-buffer-to-messages.git
 git+https://github.com/kronick/HexgridHeatmap.git
 https://gitee.com/DaBuChen/bee-react.git
@@ -4779,6 +4772,7 @@ git+https://github.com/digitallinguistics/spec.git
 git://github.com/adamquadmon/grunt-contrib-compass.git
 git+https://github.com/filter-components/react-native-controls.git
 git+https://github.com/tobihrbr/slim-package.git
+git+https://github.com/ionic-team/ionic-native.git
 git+https://github.com/incuna/angular-bind-html-compile.git
 git+https://github.com/sohamkamani/d3-force-gravity.git
 git+https://github.com/ToddGreenfield/homebridge-directv.git
@@ -4837,7 +4831,7 @@ git+https://github.com/githwxi/ATS-Postiats.git
 git://github.com/ritch/mdoq.git
 git+https://github.com/doublerebel/serve-favicons.git
 git+https://github.com/PierrickI3/generator-purecloud-csharp-app.git
-https://github.com/abbassyed1546/SampleTestPackage/tree/master/Common
+git+https://github.com/abbassyed1546/SampleTestPackage.git
 git+https://github.com/luckstock/e1-component.git
 git+https://github.com/theangryangel/lfsworld.js.git
 git+https://github.com/messageformat/messageformat.git
@@ -4975,6 +4969,7 @@ git+https://github.com/nitaybz/homebridge-udp-multiswitch.git
 git+https://github.com/rill-js/etag.git
 git+https://github.com/paolochiodi/aws-get-ip.git
 git+https://github.com/dodev/vow-xamel.git
+git+ssh://git@github.com/npm/spife-webpack.git
 git+https://github.com/gtap-dev/fractal-module-resolver-webpack-plugin.git
 git+https://github.com/ahdinosaur/feathers-action-react.git
 git+https://github.com/parakhod/cat-box.git
@@ -4992,7 +4987,6 @@ git://github.com/blockai/http-errors-express.git
 git+ssh://git@github.com/microadam/ua-compatible.git
 git+https://github.com/joshblack/spec.git
 git+https://github.com/noderaider/modular.git
-git+https://github.com/luo200619/thinknodemysql.git
 git://github.com/aarongloege/grunt-modify-json.git
 git+ssh://git@github.com/soundstep/infuse.js.git
 git+https://bitbucket.org/atlassian/atlaskit.git
@@ -5228,6 +5222,7 @@ git+https://github.com/marcelo-lopes/nodebb-plugin-lavender-hide-user-profile-co
 git+https://github.com/kunukn/ackordion.git
 git+https://github.com/raulrene/react-utils-button.git
 git+https://github.com/EvanLeroyer/evan-fetch.git
+git+ssh://git@github.com/airbnb/babel-preset-airbnb.git
 git+https://github.com/wonilsuh/ellipsisis.git
 git+https://github.com/silvae86/rlrequire.git
 git+https://github.com/e-conomic/groom.git
@@ -5319,7 +5314,7 @@ git+https://github.com/merciba/turner.git
 git+https://github.com/cdebotton/pruno-jade.git
 git+https://github.com/dalphyx/pokemon-stat-calculator.git
 git://github.com/coolblade/honeytracks-node-sdk.git
-git+https://github.com/stinkstudios/create-react-app.git
+git+https://github.com/Stinkstudios/npm-packages.git
 git+ssh://git@github.com/stephank/yaml.node.git
 git+https://github.com/FlorianFe/generator-polymer-2.git
 git+https://github.com/arkka/xendit-node-client.git
@@ -5365,7 +5360,6 @@ git://github.com/cleverstack/cleverstack-cli.git
 git+https://github.com/samvv/js-extra-decorators.git
 git+https://github.com/azu/negaposi-analyzer-ja.git
 git://github.com/roymap/node-gravatar2.git
-git+https://github.com/MrKou47/jest-css-modules-processor.git
 git+https://github.com/swillner/netcdf4-js.git
 git+https://github.com/JoV5/mult-react-scripts.git
 git+https://github.com/hacksparrow/cloudfoundry-cli.git
@@ -5506,7 +5500,7 @@ git+https://github.com/dogstack/dogstack-agents.git
 git+https://github.com/authmagic/authmagic-getting-started-example.git
 git+https://github.com/JSBizon/node-memorystream.git
 git+https://github.com/m-e-h/theme-claim.git
-https://www.github.com/codinghobby/mare-dom
+git+https://github.com/codinghobby/mare-dom.git
 git+https://github.com/jnv/node-deatchbycaptcha.git
 git+ssh://git@github.com/chriskacerguis/pivotalchangelog.git
 git://github.com/bigmountainideas/roq.git
@@ -5559,7 +5553,7 @@ git://github.com/vincent/grunt-contrib-plistversion.git
 git+https://github.com/the-labo/the-db-util.git
 git+https://github.com/jamesssooi/Croppr.js.git
 git+https://github.com/ruiyeah/langjudge.git
-git+https://github.com/pqml/dom.git
+git+ssh://git@github.com/pqml/dom.git
 git+https://github.com/vietthang/hapi-boilerplate.git
 git+https://github.com/ruanyl/ensure-keys.git
 git://github.com/devongovett/neuquant.git
@@ -5634,7 +5628,7 @@ git://github.com/leebyron/testcheck-js.git
 git+https://github.com/staltz/callbag-merge.git
 git+https://github.com/mixbytes/solidity.git
 git://github.com/Ahimta/digits-trie.git
-git+https://github.com/19cah/abraham.git
+git+https://github.com/abranhe/abraham.git
 git+https://github.com/nicokaiser/check-cert-expiry.git
 git+https://github.com/monolithed/grunt-init-user.git
 git+ssh://git@github.com/iotacss/utilities.text.git
@@ -5701,6 +5695,7 @@ git+https://github.com/byackley/pixelfonts.git
 git+https://github.com/tatarize/voxel-things.git
 git+https://github.com/yami-beta/license-list.git
 git+https://github.com/featurist/plastiq-semantic-ui.git
+git+https://github.com/heXeo/vue-typescript-jsx.git
 git://github.com/JacksonTian/hehe.git
 git+https://github.com/DoggyFrame/doggy-grid.git
 git+https://github.com/twlk28/push-svn.git
@@ -5959,6 +5954,7 @@ git+https://github.com/NET-A-PORTER/preston.git
 git+https://github.com/kbarbounakis/most-web-csv.git
 git+https://github.com/wenwuwu/stat-util.git
 git+https://github.com/toranb/ember-template-compiler.git
+git+https://github.com/Jan-Jan/redux-observable-sans-boilerplate.git
 git+https://github.com/tarranjones/macos-defaults-setup.git
 git+https://github.com/zmarcantel/koa-passportjs.git
 git+https://github.com/AgentME/react-shuffle.git
@@ -5999,7 +5995,6 @@ git+https://github.com/duyongguang/googlecn.git
 git+https://github.com/GigantechHQ/weeping.git
 git+https://github.com/flintovich/react-media-resize.git
 git+https://github.com/dfcreative/tst.git
-git+https://github.com/xdk78/pantsu-api.git
 git+https://github.com/ivanplenty/binford-slf4j-adapter.git
 git+https://github.com/Aestetype/react-fixed-grid.git
 git+https://github.com/chiefbiiko/tape-puppet.git
@@ -6107,7 +6102,7 @@ git+https://github.com/lostinplace/jsonltocsv.git
 git+https://github.com/SamyPesse/should-html.git
 git+https://github.com/zjohn77/retrieval.git
 git+https://github.com/chrisinajar/parse-kv.git
-git+https://github.com/goldwasserexchange/javascript.git
+git+https://github.com/goldwasserexchange/public.git
 git+ssh://git@bitbucket.org/developmentOneZero/erpdatabase.git
 git+https://github.com/ottojs/otto-hours.git
 git+https://github.com/slatron/underscore-scrubber.git
@@ -6259,7 +6254,6 @@ git+https://github.com/xF4b3r/pubgAPI.git
 git+https://github.com/vdeturckheim/vladimir.git
 git+https://github.com/srilq/random-frog.git
 git+ssh://git@github.com/juanprietob/clusterpost.git
-git+https://github.com/xtuple/xtuple-server.git
 git+https://github.com/semantic-math/math-evaluator.git
 git+ssh://git@github.com/dbalas/koalerplate.git
 git://github.com/OrfeasZ/node-binutils.git
@@ -6321,7 +6315,7 @@ git+https://github.com/kanreisa/Rivarun.git
 git://github.com/jonschlinkert/minutes.git
 git+https://github.com/4N1S/strikeLN-node.git
 git://github.com/psirenny/derby-lang.git
-git://github.com/jhipster/generator-jhipster.git
+git://github.com/jhipster/generator-fastboot.git
 git+https://github.com/jpiepkow/gli-codegen.git
 git+https://github.com/Rastopyr/d3-builder.git
 git://github.com/substack/shoe-bin.git
@@ -6584,6 +6578,7 @@ git+https://github.com/marionebl/tessdata.git
 git+https://github.com/eklem/dataset-vinmonopolet.git
 git+https://github.com/thanpolas/task-closure-tools.git
 git+https://github.com/littlstar/lager.git
+git+https://github.com/ionic-team/ionic-native.git
 git+https://github.com/mohamedhayibor/object-2darray.git
 git+https://github.com/avocode/json-immutable.git
 git+https://github.com/theia-ide/theia.git
@@ -6967,7 +6962,6 @@ git+https://github.com/babel/babel.git
 git+https://github.com/jonathantneal/postcss-hfill.git
 git+https://github.com/evanx/redock.git
 git+https://github.com/simplec-dev/nativescript-local-notifications.git
-git+https://github.com/ackmann-dickenson/stylelint-ackmann-dickenson.git
 git+https://github.com/react-tile/cz-alle-changelog.git
 git+https://github.com/BuggyOrg/buggy-cli.git
 git+https://github.com/nimedev/javascript.git
@@ -6981,7 +6975,7 @@ git+https://github.com/ghafran/milli-epoch.git
 git+ssh://git@github.com/MilosMosovsky/plasmatic.git
 git+https://github.com/zhoujiqiu/vue_dialog.git
 git+https://github.com/JoseBarrios/ui-element-template.git
-git+https://github.com/fskorzec/shadow-flux.git
+git+ssh://git@github.com/fskorzec/shadow-flux.git
 git+https://github.com/wannaxiao/vue-slim-dialog.git
 git+https://github.com/alrra/browser-logos.git
 git+ssh://git@github.com/gerardmrk/g-get-res-info.git
@@ -6999,7 +6993,7 @@ git+ssh://git@github.com/motss/lit-ntml.git
 git+https://github.com/maptalks/maptalks.biglayer.git
 git+https://github.com/MarkKhramko/RamDB.git
 git+https://github.com/deanlandolt/bytewise.git
-git+https://gitlab.com/libresat/libresat.git
+git+ssh://git@gitlab.com/libresat/libresat.git
 git+https://github.com/MaciejKrol/logic-circuit.git
 git+https://github.com/bf86/ez-random.git
 bitbucket.org:kintisheff/extend.git
@@ -7591,6 +7585,7 @@ git+https://github.com/jaystack/redux-repatch-creator.git
 git+https://github.com/uxland/uxl-routing.git
 git@github.com/floriangosse/vdata-parser.git
 git+https://github.com/sendos-pro/sendos-tools-senderscore.git
+git://github.com/ReactiveSets/undefine.git
 git+https://github.com/MyCryptoHQ/nano-result.git
 git://github.com/ptrsghr/joint.git
 git+ssh://git@github.com/jimkang/monthly-damage.git
@@ -7728,7 +7723,7 @@ git+https://github.com/importre/alfred-slack-status.git
 git+https://github.com/npm/security-holder.git
 git+https://github.com/ggranum/tangential.git
 git+https://github.com/spur/slide-plugin.git
-git+https://github.com/terascope/elasticsearch_api.git
+git+ssh://git@github.com/terascope/teraslice.git
 git://github.com/rxaviers/node-github-oo.git
 git+https://github.com/alibaba/ice.git
 git+https://github.com/holidayextras/brands.git
@@ -7751,7 +7746,7 @@ git+https://github.com/gre/gl-react-native-view-texture.git
 git+https://github.com/dvrylc/sentinel.git
 git+https://zenedith@bitbucket.org/xclipboard/npm-xclipboard-model.git
 git+https://github.com/RobotSnacks/stout-auth.git
-git+ssh://git@github.com/bdangit/scm-gitlab.git
+git+ssh://git@github.com/screwdriver-cd/scm-gitlab.git
 git+https://github.com/HuygensING/hire-tooltip.git
 git+https://github.com/plantain-00/select2-component.git
 git+https://github.com/qix-/node-high-order.git
@@ -7910,7 +7905,7 @@ git+https://github.com/jpnelson/react-component-timing.git
 git+https://github.com/Microsoft/TypeScript.git
 git://github.com/modeista/node-modeista-api-client.git
 git+https://github.com/malaman/js-image-zoom.git
-https://www.github.com/josejuanisaac/coin-parser
+git+https://github.com/josejuanisaac/coin-parser.git
 git+https://github.com/hacor/eurodns-api.git
 git+https://github.com/Pomax/node-jp-conversion.git
 git+https://github.com/brave/node-anonize2-relic.git
@@ -8025,7 +8020,7 @@ git+https://github.com/npm/security-holder.git
 git+https://github.com/bh5-pods/BHCamera.git
 git+https://github.com/caesarsol/postcss-fuss.git
 git+https://github.com/shimohq/react-native-xwalk.git
-git+https://github.com/aplalineb/aibulo.git
+git+https://github.com/aplalineb/baibulo-node.git
 https://code.ryanburnette.com/ryanburnette/decently-smart-target.git
 git+https://github.com/sandjs/mysql.git
 git+https://github.com/descarteslabs/cycle-widgets.git
@@ -8521,6 +8516,7 @@ git+https://github.com/npm/deprecate-holder.git
 git+https://github.com/smolak/stash-it-adapter-mongo.git
 git+https://github.com/alfredwesterveld/javascript-queuetry.git
 git+https://github.com/hefantvH5/hefantv-backpack.git
+git+https://github.com/babel/babili.git
 git+https://github.com/simonguo/hbook-cli.git
 git+https://github.com/eilertenstudio/arrakis.git
 git+https://bitbucket.org/original-io/react-autocomplete-form-search.git
@@ -8602,7 +8598,7 @@ git+https://github.com/batata-frita/redux-heat.git
 git+https://github.com/brendanashworth/node-murmurhash3.git
 git+https://github.com/VolandoBoyz/search-react.git
 git+https://github.com/conradreuter/cancellationtoken.git
-git+https://github.com/anchel/wep.git
+http://git.code.oa.com/weplus/wep.git
 git+https://github.com/benjaminpwagner/mtg-deck-checker.git
 git+https://github.com/win7killer/cimg.git
 git+https://github.com/halhenke/jade-react-loader.git
@@ -8809,7 +8805,6 @@ git+https://github.com/jsifalda/caret-to-end.git
 git+https://github.com/alexlangberg/node-goldwasher-aws-lambda.git
 git+https://github.com/vrkansagara/material-mochikit.git
 git+https://github.com/PierrickP/multicycles.git
-git+https://github.com/yasselavila/id-hash.git
 git+https://github.com/npm/deprecate-holder.git
 git://github.com/elgrancalavera/grunt-extend.git
 git+https://github.com/gustavnikolaj/hijackresponse.git
@@ -9312,7 +9307,7 @@ git+https://github.com/natgeo/sails-neo4j.git
 git+https://github.com/teslitsky/mongoose-imei.git
 git+https://github.com/whastings/package-json-to-docker.git
 git+https://github.com/trevorharwell/js-runtime-env-processor.git
-https://www.github.com/drdanryan/deburr-filename
+git+https://github.com/drdanryan/deburr-filename.git
 git+https://github.com/npm/deprecate-holder.git
 git+https://github.com/wejs/we-plugin-view.git
 git+https://github.com/zoubin/index-hashify.git
@@ -9686,7 +9681,6 @@ git+https://github.com/lrlna/on-async-hook.git
 git+https://github.com/fmmfonseca/metalsmith-ng-annotate.git
 git+https://github.com/ericfong/datavan.git
 git+https://github.com/tunnckocore/koa-rest-router.git
-git+https://github.com/ersinfotech/ers-http.git
 git+https://github.com/jlekie/sentire.git
 git+ssh://git@github.com/druidvav/node-async-promise.git
 git://github.com/philopian/gulp-add-typings.git
@@ -9932,6 +9926,7 @@ git+https://github.com/animesh10/my-component.git
 git+https://github.com/jfalxa/pfft.git
 git://github.com/substack/node-pier.git
 git+https://github.com/ryanve/align.css.git
+git+https://github.com/PazzaVlad/table-of-contents-generator.git
 git+https://github.com/drb/random-world-cli.git
 git+ssh://git@github.com/legraphista/eta.git
 git+https://github.com/doronhagag/nadlanist-crawler.git
@@ -10139,7 +10134,6 @@ git+https://github.com/vechain/thorify.git
 git://github.com/Raynos/by.git
 git://github.com/substack/outpipe.git
 git+https://gitlab.com/iiroj/styled-modal.git
-https://bitbucket.org/opensoftgitrepo/lf-kotlin/src
 git+https://github.com/curtis-n/test-number-formatter.git
 git+https://github.com/textlint-rule/textlint-rule-preset-google.git
 git+https://github.com/sahibalejandro/laravel-elixir-lr.git
@@ -10169,13 +10163,14 @@ git://github.com/NodeRT/NodeRT.git
 github.com/1995hnagamin/hubot-achievements
 git+https://github.com/blackberry/WebWorks-Community-APIs.git
 git://github.com/chrisknowles/ck-viewport.git
-https://www.github.com/geanius/otis.git
+git+https://github.com/geanius/otis.git
 git+ssh://git@bitbucket.org/mcclowes/babel-preset-mcclowes.git
 git+ssh://git@github.com/pkrumins/node-png.git
 git+https://github.com/torvalamo/pmod.git
 git+https://github.com/itsjustcon/node-child-process-async.git
 git+https://github.com/vdemedes/generator-ronin.git
 git+https://github.com/gradymorgan/bilinear-interpolate.git
+git+https://github.com/Fitbit/image-codec-txi.git
 git+https://github.com/cosmozhang1995/forest-research.git
 git+https://github.com/egoist/vue-slides.git
 git+https://github.com/hiebj/gulp-dir.git
@@ -10244,9 +10239,9 @@ git+https://github.com/fengxinming/koa2-http-proxy.git
 git://github.com/jaredhanson/passport-digg.git
 git+https://github.com/TGC79/tgc79-gulp-tasks.git
 git://github.com/nikcorg/select-env.git
-https://www.github.com/aem/docs-soap
+git+https://github.com/aem/docs-soap.git
 git+https://github.com/neonstalwart/level-perstore.git
-git+https://gitlab.com/dev-sm/callmd-guideline.git
+git+https://gitlab.com/health-ultimate-corporation/guideline.git
 git+https://github.com/k-yle/AThop.git
 git+https://github.com/visbol/visbol-js.git
 git+https://github.com/trotyl/anorexia.git
@@ -10290,7 +10285,7 @@ git://github.com/ginden/gulp-istanbul-espree.git
 git+https://github.com/stayerjs/intefaces.git
 git+https://github.com/tree-sitter/tree-sitter-php.git
 git+https://github.com/roccomuso/rtc-web-term.git
-git+https://github.com/alexlur/rollup-plugin-ignore.git
+git+https://github.com/glixlur/rollup-plugin-ignore.git
 git+https://github.com/change/javascript.git
 https://git.coding.net/yymt168/node-modules.git
 git+https://github.com/TechQuery/APIdoc-EWA.git
@@ -10309,7 +10304,7 @@ git+https://github.com/bitstrider/react-prepare-wrapper.git
 git+ssh://git@github.com/maambmb/generator-mono-blank.git
 git+https://github.com/loggur/react-redux-provide-history.git
 git+https://github.com/js1016/text2jsvar.git
-https://www.github.com/kylecoberly/time-series-histogram-formatter
+git+https://github.com/kylecoberly/time-series-histogram-formatter.git
 git+https://github.com/qixin1991/grpc-sdk-client.git
 git+https://github.com/mindlapse/in-folder.git
 git+https://github.com/frostney/react-scenedirector.git
@@ -10418,7 +10413,7 @@ git+https://github.com/opensource-cards/react-mgr.git
 git+https://github.com/BubuAnabelas/bsd-true.git
 git+https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta.git
 git+https://github.com/Neuromobile/node-mkdirpsync.git
-http://www.github.com/okwolo/okwolo.git
+git+ssh://git@github.com/okwolo/okwolo.git
 git+https://github.com/Microsoft/node-request-light.git
 git://github.com/jllord/hasinternet.git
 git+https://github.com/ghaiklor/passport-soundcloud-token.git
@@ -10689,7 +10684,7 @@ git+ssh://git@github.com/maitria/mock-api-server.git
 git+https://github.com/Endare/node-bb10.git
 git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando-rectangle.git
 git+https://github.com/zaiste/blezer.git
-git+https://github.com/goldwasserexchange/javascript.git
+git+https://github.com/goldwasserexchange/public.git
 git+https://kokushin@github.com/kokushin/node-twatch.git
 git://github.com/jvmahon/pi2homeseer.git
 git+https://github.com/reactjs/react-art.git
@@ -10885,7 +10880,6 @@ git+https://github.com/magdev/node-mashape-tools.git
 git+https://github.com/selfup/vue-reegux.git
 git+https://github.com/npm/security-holder.git
 git+https://github.com/aiota/response.git
-https://gitee.com/zhengjitf/demo-test.git
 git+https://github.com/leon-4A6C/themoviedb.git
 git+https://github.com/fossasia/susi_desktop.git
 git+https://github.com/TheOdd/steamstatus.git
@@ -11047,6 +11041,7 @@ git+ssh://git@github.com/maxvyaznikov/imapseagull-storage-mongo.git
 git+ssh://git@github.com/aputinski/butane.git
 git://github.com/ullmark/grunt-ucss.git
 git+https://github.com/AdriatikDushica/tangojs-framework.git
+git+https://github.com/wix/react-native-ui-lib.git
 git+https://github.com/mikhail-angelov/mongo-unit.git
 git+https://github.com/nethoncho/feathersjs-angular1-socket.io.git
 git+https://github.com/Huxpro/forcify.git
@@ -11218,6 +11213,7 @@ git+https://github.com/micnews/tracker-wrapper.git
 git://github.com/ninja/eslint-config-ninja.git
 git://github.com/signalfuse/release-buddy.git
 git+https://github.com/xmppjs/xmpp.js.git
+git+https://github.com/lodash/lodash.git
 git://github.com/it-blockchainglobal/acx-api.git
 git+https://github.com/cowtech/package-utils.git
 git+https://github.com/jacobclarke92/skrollr-colors.git
@@ -11368,7 +11364,7 @@ git+https://github.com/bluedroplet/etherbin.git
 git+https://github.com/danfuzz/bayou.git
 git+ssh://git@github.com/bengl/jenkins-pitesti.git
 git://github.com/peterdemartini/skynet-heartbeat.git
-git+https://github.com/anchel/wep-cli.git
+http://git.code.oa.com/weplus/wep-cli.git
 git://github.com/cantina/cantina-mysql.git
 git+https://github.com/samvv/lineal.git
 git+https://github.com/ivan-nezhura/oc-mod.git
@@ -12007,9 +12003,9 @@ git+https://github.com/jonschlinkert/markdown-utils.git
 git+https://github.com/gurayyarar/smterminal.git
 git+https://github.com/casetext/firebase-stats.git
 git+https://github.com/thomas-darling/gulp-tree-filter.git
+git+https://github.com/krizzu/adbs.git
 git+https://github.com/invisible-college/statebus.git
 git://github.com/nilclass/vcardjs.git
-git+https://github.com/Palmabit-IT/Sacajawea.git
 git+ssh://git@github.com/chrisfjones/coffin.git
 git+https://github.com/GrimoireGL/grimoirejs-glTF.git
 git+https://github.com/tojrobinson/link-id.git
@@ -12157,7 +12153,7 @@ git+https://github.com/fredguile/hapi-sequelize.git
 git+https://github.com/akayami/lal-walmart-parser.git
 git+https://github.com/tooltwist/authservice-vue.git
 git://github.com/michieljoris/firgilio.git
-https://www.github.com/gimlids/wcap
+git+https://github.com/gimlids/wcap.git
 git://github.com/thenativeweb/get-certificate.git
 git+https://github.com/sophilabs/gilp-check-commit.git
 git://github.com/sendanor/nor-acl.git
@@ -12332,7 +12328,7 @@ git+https://github.com/taoza/aws-ssm-decrypt.git
 git+https://github.com/AsureFoundation/truffle-jest.git
 git+https://github.com/RobinHerbots/Inputmask.git
 git://github.com/BernhardBezdek/clrlog.git
-https://www.github.com/selbekk/generator-react-redux-selbekk
+git+https://github.com/selbekk/generator-react-redux-selbekk.git
 git+https://github.com/wen911119/object-mutation.git
 git+https://github.com/magnolia-cms/shareable-component.git
 git+https://github.com/theia-ide/theia.git
@@ -12395,6 +12391,7 @@ git+ssh://git@github.com/mscdex/node-ncurses.git
 git+https://gitlab.com/Hoolymama/natlang.git
 git+ssh://git@github.com/f1lt3r/unenki.git
 git+https://github.com/interledger/passport-http-signature.git
+git+https://github.com/zhbhun/standard.git
 git://github.com/derhuerst/date-prompt.git
 git+https://github.com/yamcer/yamcer-console.git
 git://github.com/jutaz/js-swatches.git
@@ -12906,7 +12903,6 @@ git+https://github.com/kmgilbert100/process-and-monitor-files.git
 git+https://github.com/dkrutsko/express-bouncer.git
 git+https://github.com/wshager/xvmath.git
 git+https://github.com/eddow/vue-ripper.git
-git+https://github.com/seindi/xml.dll.git
 git+https://github.com/zenflow/real-time-file.git
 git+ssh://git@github.com/Anaphase/siml-angular-brunch.git
 git+https://github.com/jonschlinkert/composer-confirm.git
@@ -13081,7 +13077,6 @@ git+https://github.com/chriskjaer/react-lorem-image.git
 git+https://github.com/microsoft/ghrequestor.git
 git+https://github.com/earthchie/JQL.js.git
 git+https://github.com/renmm/nodejs.git
-git+https://github.com/segmentio/analytics.js.git
 git+https://github.com/gabrielsclimaco/vuejs-credit-card.git
 git+https://github.com/josephroffey/broccoli-npm-pull.git
 git+https://github.com/KoryNunn/clean-merge.git
@@ -13807,7 +13802,7 @@ git+https://github.com/petehunt/statics.git
 git+https://github.com/fengyuanchen/load-scripts.git
 git+https://github.com/TrueNorth/flavordb-node.git
 git+ssh://git@github.com/jefffriesen/strip-for-search.git
-git+https://github.com/Volem/ars-dataaccess.git
+git+https://github.com/ARSevo/ars-dataaccess.git
 git+https://github.com/uclaradio/stylelint-config-uclaradio.git
 git+https://github.com/clara-labs/better-timezone.git
 git+https://github.com/ponko2/eslint-config-ponko2.git
@@ -13974,8 +13969,7 @@ git+https://github.com/CN-kicoyu/miniprogram-loader.git
 git+https://github.com/mafintosh/streaming-format.git
 git@git.qapint.com:cobalt-dev/dev-builder.git
 git+https://github.com/GitbookIO/tokenize-htmltext.git
-git+https://github.com/samverschueren/gulp-cordova-plugin.git
-git+https://github.com/apollographql/react-apollo.git
+git+https://github.com/SamVerschueren/gulp-cordova-plugin.git
 git://github.com/showpad/angular-q-spread.git
 git+https://github.com/vincentLiuxiang/easy-websocket.git
 git+https://github.com/bamlab/redux-actions-cache-middleware.git
@@ -14231,7 +14225,7 @@ git://github.com/terryfe/express-reroute.git
 git+https://github.com/iiyo/easy-ajax.git
 git+https://github.com/termosa/qinu.git
 git://github.com/Bttstrp/bootstrap-switch.git
-https://www.github.com/bravegurkha/esewa-nodejs
+git+https://github.com/bravegurkha/esewa-nodejs.git
 git+https://github.com/nowsecure/interval-to-ltgt.git
 git+https://github.com/bulkan/async-you.git
 git+https://github.com/cyclejs-community/create-cycle-app-flavors.git
@@ -14245,7 +14239,7 @@ git://github.com/WebReflection/superify.git
 git+https://github.com/javibm/simplifapi.git
 git+https://github.com/kingces95/kingjs.git
 git+ssh://git@github.com/smonn/tfs-cmd.git
-git+https://github.com/splact/react-occamy-text.git
+git+https://github.com/Splact/react-occamy-text.git
 git+https://github.com/tj/commander.js.git
 git+https://github.com/bem-sdk/bem-deps.git
 git://github.com/creative-area/node-plus.git
@@ -14471,7 +14465,7 @@ git+https://github.com/RiotGear/rg-router.git
 git+https://github.com/industral/restify-www-canonical.git
 git+https://github.com/Heymdall/react-component-info.git
 git+https://github.com/raptorjs/optimizer-cli.git
-git+https://github.com/rollup/sql-formatter-cli.git
+git+https://github.com/osv/sql-formatter-cli.git
 git+https://github.com/SG-FE/cd-list.js.git
 git+https://github.com/cyborgsamrat/generator-lmf.git
 git+https://github.com/dsmalicsi/collab-react-components.git
@@ -14734,14 +14728,13 @@ git://github.com/laardee/api-token.git
 git+https://github.com/Colorfulstan/LeagueJS.git
 git://github.com/tellnes/bunyan-middleware.git
 git+https://github.com/fattypanda/dva-model-persist.git
-git+https://github.com/knohime/linkedin-import.git
 git+https://github.com/mblackstock/node-red-contrib-influxdb.git
 git://github.com/theuves/dicio.git
 git+https://github.com/zanona/less-plugin-html.git
 git+https://github.com/qnm/redux-scaffold.git
 git+https://github.com/scarleette/scl-2018-01-FE-markdown.git
 git+https://github.com/npm/deprecate-holder.git
-git@gitlab.aofl.com:CoreJS/aofl-os.git
+git+ssh://git@github.com/AgeOfLearning/aofl.git
 git+https://github.com/tiaanduplessis/proofread-core.git
 git+https://github.com/ExcellentJR/brace-editor.git
 git+https://github.com/mikolalysenko/electricorder.git
@@ -14750,7 +14743,7 @@ git+ssh://git@github.com/Ryan724/apibox.git
 git+https://github.com/herbertscruz/nuxt-server.git
 git+https://github.com/yikuo123/cordova-plugin-xgpush.git
 git://github.com/brettapeters/json-io-promised.git
-git+https://github.com/guoyunhe/rabbit-lyrics.git
+git+https://gitlab.com/guoyunhe/rabbit-lyrics.git
 git+https://github.com/injectivejs/injective-cli.git
 git+ssh://git@github.com/echoulen/react-native-direct-router.git
 git://github.com/jscote/Injector.git
@@ -14791,7 +14784,7 @@ git+https://github.com/lisiur/ucme.git
 git+https://github.com/jasonhillier/orator-session.git
 git+https://github.com/AlmeriaJS/nintendo-characters.git
 git://github.com/redhotvengeance/compiln-stylus.git
-git+https://github.com/SporeUI/spore-kit-evt.git
+https://github.com/SporeUI/spore-kit/packages/evt
 git+https://github.com/narr/npm-eg.git
 git+https://github.com/joecohens/laravel-elixir-myth.git
 git+https://github.com/4ver/node-auto-launch.git
@@ -14808,7 +14801,7 @@ git+https://github.com/yinxin630/ezreal.git
 git+https://github.com/gregtillbrook/react-head-start.git
 git@https://github.com/NebulaEngineering/angular-ble
 git+https://github.com/AdaptivElite/ihtml.git
-https://www.github.com/sjohnsonaz/express-route-decorators.git
+git+https://github.com/sjohnsonaz/express-route-decorators.git
 git+https://github.com/Zalamo/generator-zalamo.git
 git+https://github.com/kumavis/eth-tx-finder.git
 git+ssh://git@github.com/developmentseed/node-eio.git
@@ -14905,7 +14898,7 @@ git+https://github.com/filamentgroup/faux-pas.git
 git+https://github.com/WQTeam/jquery-ajax-cache.git
 git+https://github.com/octoblu/twitter-stream.git
 git+https://github.com/foreverjs/forever.git
-git+ssh://git@github.com/amaneku/stylelint-config.git
+git+https://github.com/amaneku/stylelint-config.git
 git+https://github.com/asenousy/react-typist.git
 git+https://github.com/jake-rigby/cliify.git
 git+https://github.com/Labushune/hubsearch.git
@@ -15513,7 +15506,7 @@ git+https://github.com/typicode/lodash-id.git
 git+https://github.com/esiao/nodebb-plugin-custom-header.git
 git+https://github.com/bbuhler/gulp-sass-themes.git
 git://github.com/paulmillr/pushserve.git
-http://www.github.com/narfman0/pubsubcutioner
+git+ssh://git@github.com/narfman0/pubsubcutioner.git
 git+https://github.com/Jcheckteam/jcheck.git
 git+https://github.com/yurks/wsk-utils.git
 git+https://github.com/samundrak/expressjs-api-explorer.git
